@@ -2,11 +2,11 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
+    display_name: "勒布朗詹姆斯  "
     github: xiaohang007
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
+    bio: 前锋
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -27,19 +27,10 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "安东尼戴维斯"
     role: grad
     image: /img/people/bizhu.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
-    role: grad
-    image: /img/people/kedeng.jpg
-
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
 
 
 
