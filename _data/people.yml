@@ -4,7 +4,7 @@
 profx:
     display_name: "勒布朗詹姆斯 "
     role: faculty
-    image: /img/people/hang.jpg
+    image: /img/people/lbj.jpg
     bio: 前锋
    
 
@@ -28,7 +28,7 @@ wolverine:
 bizhu:
     display_name: "安东尼戴维斯"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/ad.jpg
 
 
 
