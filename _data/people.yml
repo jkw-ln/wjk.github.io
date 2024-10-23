@@ -2,12 +2,11 @@
 
 
 profx:
-    display_name: "勒布朗詹姆斯  "
-    github: xiaohang007
+    display_name: "勒布朗詹姆斯 "
     role: faculty
     image: /img/people/hang.jpg
     bio: 前锋
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+   
 
 scott:
     display_name: "Scott Summers"
@@ -41,36 +40,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "八村垒，前锋，2.03，104.3公斤，28号，1998/2/8 ，日本 "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "丹吉洛·拉塞尔，后卫，1.9，87.5 公斤，1号，1996/2/23，美国"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "奥斯汀·里维斯，后卫，1.96，89.4 公斤，15号，1998/5/29，美国"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "贾里德·范德比尔特，前锋，2.03，97.1 公斤，2号，1999/4/3，美国"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "科林·卡斯尔顿，中锋，2.08，113.4 公斤，14号，2000/5/25，美国"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "马克斯·克里斯蒂，后卫，1.96，86.2 公斤，10号，2003/2/10，美国"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "托里安·普林斯，前锋，1.98，98.9 公斤，12号，1994/3/22，美国"
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "斯凯拉·梅斯，后卫，1.9，93.0 公斤，4号，1997/9/5，美国"
     role: collab
     
 
