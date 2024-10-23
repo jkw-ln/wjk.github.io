@@ -32,7 +32,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 球队简介 Itroducation
     link: /
   - title: 球队历史 History
     link: /research.html
